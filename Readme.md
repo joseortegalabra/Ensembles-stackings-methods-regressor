@@ -24,7 +24,7 @@ In this repo you only see a example of Esemble methods of data where each observ
 - The only difference between Notebooks and scripts are that the Notebooks are running with only the first dataset and scripts run the 4 datasets present in this repo 
 
 
-## Orden Folder ##
+## Order Folder ##
 In this repo you can see the following folder:
 - data: folder where are located all the datasets used in the examples of this repo
 - discovery: folder where are located all the Notebooks used to discovery and study ensembles methods (with dataset 1)
